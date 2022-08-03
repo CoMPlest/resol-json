@@ -96,7 +96,7 @@ In order to use the application you need [node.js][Node-url] and npm installed o
    cd resol-json
    npm install
    ```
-3. Edit the configuration file src/config.js
+3. Edit the configuration file `src/config.js`
    ```js
    const config = {
         httpPort: 3333,
