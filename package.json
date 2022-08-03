@@ -1,0 +1,17 @@
+{
+  "name": "json-live-data-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "AAron Szekelyhidi <szekelyhidi.aron@gmail.com>",
+  "license": "GPL3",
+  "dependencies": {
+    "express": "^4.17.2",
+    "winston": "^3.5.0",
+    "resol-vbus": "^0.24.0"
+  }
+}
