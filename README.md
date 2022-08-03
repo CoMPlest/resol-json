@@ -188,4 +188,4 @@ Project Link: [https://github.com/CoMPlest/resol-json](https://github.com/CoMPle
 [Nodejs]: https://img.shields.io/badge/node.js-215732?style=for-the-badge&logo=nodedotjs&logoColor=white
 [Node-url]: https://nodejs.org/
 [ResolVbus]: https://img.shields.io/badge/ResolVbus-20232A?style=for-the-badge&logo=GitHub
-[ReactVbus-url]: https://github.com/danielwippermann/resol-vbus
+[ResolVbus-url]: https://github.com/danielwippermann/resol-vbus
