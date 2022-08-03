@@ -70,7 +70,7 @@
 ### Built With
 
 * [![Node.js][Nodejs]][Node-url]
-* [![Resol-VBus][ResolVbus]][ResolVbus-url]
+* [![Resol VBus][ResolVbus]][ResolVbus-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
