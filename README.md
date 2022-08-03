@@ -69,7 +69,7 @@
 
 ### Built With
 
-* [![Node][Next.js]][Next-url]
+* [![Node.js][Nodejs]][Node-url]
 * [![Resol-VBus][ResolVbus]][ResolVbus-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -185,7 +185,7 @@ Project Link: [https://github.com/CoMPlest/resol-json](https://github.com/CoMPle
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/aron-szekelyhidi/
 [product-screenshot]: images/screenshot.png
-[Node.js]: https://img.shields.io/badge/node.js-215732?style=for-the-badge&logo=nodedotjs&logoColor=white
+[Nodejs]: https://img.shields.io/badge/node.js-215732?style=for-the-badge&logo=nodedotjs&logoColor=white
 [Node-url]: https://nodejs.org/
 [ResolVbus]: https://img.shields.io/badge/ResolVbus-20232A?style=for-the-badge&logo=GitHub
 [ReactVbus-url]: https://github.com/danielwippermann/resol-vbus
