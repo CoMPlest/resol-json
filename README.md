@@ -111,6 +111,8 @@ In order to use the application you need [node.js][Node-url] and npm installed o
    npm start
    ```
 
+5. Go to `http://localhost:3333/api/v1/live-data` to see live data
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
